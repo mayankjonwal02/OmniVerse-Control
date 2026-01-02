@@ -1,0 +1,7 @@
+{
+  "name": "Cosmos Hand-Explorer",
+  "description": "A high-fidelity 3D universe simulator controllable via hand gestures using computer vision and powered by Gemini for cosmic intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
